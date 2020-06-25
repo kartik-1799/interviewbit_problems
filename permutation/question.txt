@@ -1,0 +1,1 @@
+Given a collection of numbers, return all possible permutations.
