@@ -1,0 +1,1 @@
+Used heapPermutation and added some modification.
