@@ -1,3 +1,3 @@
 # interviewbit problems
-*permutations_problems
-*Backtraking
+- permutations_problems
+- Backtraking
